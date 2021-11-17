@@ -1,0 +1,22 @@
+{
+  "name": "damons-year",
+  "version": "1.0.0",
+  "description": "JS web project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eung9e/Damons-year.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eung9e/Damons-year/issues"
+  },
+  "homepage": "https://github.com/eung9e/Damons-year#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
